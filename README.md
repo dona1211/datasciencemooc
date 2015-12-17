@@ -1,1 +1,1 @@
-# datasciencemooc
+# datasciencecoursera
